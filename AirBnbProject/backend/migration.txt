@@ -1,0 +1,1 @@
+npx sequelize model:generate --name Users --attributes id:integer,username:string,email:string,hashedPassword:string
